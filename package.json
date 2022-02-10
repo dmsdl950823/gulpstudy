@@ -33,7 +33,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-util": "^3.0.8",
     "gulp-webserver": "^0.9.1",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "browserslist": [
     "> 1%",
